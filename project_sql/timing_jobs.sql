@@ -1,3 +1,4 @@
+
 CREATE TABLE january_jobs AS
     SELECT *
     FROM job_postings_fact
